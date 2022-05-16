@@ -1,5 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-
 Sitemap: https://stock-info.github.io/sitemap.xml
+Host: https://stock-info.github.io

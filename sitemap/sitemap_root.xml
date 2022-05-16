@@ -8,7 +8,7 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
-    <loc>https://stock-info.github.io/reviews</loc>
+    <loc>https://stock-info.github.io/</loc>
     <lastmod>2022-05-16T13:45:42.090Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
