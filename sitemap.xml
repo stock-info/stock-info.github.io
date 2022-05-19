@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://stock-info.github.io/sitemap/sitemap_directory.xml.gz</loc>
-    <lastmod>2022-05-19</lastmod>
+    <loc>/sitemap/sitemap_directory.xml.gz</loc>
+    <lastmod>2022-05-19T13:55:37.133Z</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://stock-info.github.io/sitemap/sitemap_reviews.xml.gz</loc>
-    <lastmod>2022-05-19</lastmod>
+    <loc>/sitemap/sitemap_reviews.xml.gz</loc>
+    <lastmod>2022-05-19T13:55:37.133Z</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://stock-info.github.io/sitemap/sitemap_root.xml.gz</loc>
-    <lastmod>2022-05-19</lastmod>
+    <loc>/sitemap/sitemap_root.xml.gz</loc>
+    <lastmod>2022-05-19T13:55:37.133Z</lastmod>
   </sitemap>
 </sitemapindex>
