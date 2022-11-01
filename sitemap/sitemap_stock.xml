@@ -8,6 +8,10 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
+    <loc>https://stock-info.github.io/stock/20221101073830</loc>
+    <lastmod>2022-11-01T07:39:17.252Z</lastmod>
+  </url>
+  <url>
     <loc>https://stock-info.github.io/stock/20221031073623</loc>
     <lastmod>2022-10-31T07:37:13.244Z</lastmod>
   </url>
